@@ -20,7 +20,9 @@ __pycache__/
 *.tmp
 *.log
 
-# Datos BTS: se subirán después con Git LFS
-datos/original/
-datos/procesado/
-datos/dw/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
