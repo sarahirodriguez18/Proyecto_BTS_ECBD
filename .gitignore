@@ -1,0 +1,26 @@
+
+# Entorno virtual de Python
+.venv/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Configuraciones locales
+.vscode/
+.idea/
+
+# Credenciales y configuraciones privadas
+.env
+.env.*
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Datos BTS: se subirán después con Git LFS
+datos/original/
+datos/procesado/
+datos/dw/
