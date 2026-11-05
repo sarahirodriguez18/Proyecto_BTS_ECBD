@@ -1,0 +1,112 @@
+{
+    "entrenamiento": {
+        "anio": 2000,
+        "archivos": 12,
+        "registros": 5683047,
+        "detalle": [
+            {
+                "archivo": "vuelos_2000_01_limpio.csv",
+                "registros": 470477
+            },
+            {
+                "archivo": "vuelos_2000_02_limpio.csv",
+                "registros": 444499
+            },
+            {
+                "archivo": "vuelos_2000_03_limpio.csv",
+                "registros": 482944
+            },
+            {
+                "archivo": "vuelos_2000_04_limpio.csv",
+                "registros": 463263
+            },
+            {
+                "archivo": "vuelos_2000_05_limpio.csv",
+                "registros": 478909
+            },
+            {
+                "archivo": "vuelos_2000_06_limpio.csv",
+                "registros": 471100
+            },
+            {
+                "archivo": "vuelos_2000_07_limpio.csv",
+                "registros": 483342
+            },
+            {
+                "archivo": "vuelos_2000_08_limpio.csv",
+                "registros": 491366
+            },
+            {
+                "archivo": "vuelos_2000_09_limpio.csv",
+                "registros": 463097
+            },
+            {
+                "archivo": "vuelos_2000_10_limpio.csv",
+                "registros": 485761
+            },
+            {
+                "archivo": "vuelos_2000_11_limpio.csv",
+                "registros": 467251
+            },
+            {
+                "archivo": "vuelos_2000_12_limpio.csv",
+                "registros": 481038
+            }
+        ]
+    },
+    "prueba": {
+        "anio": 2001,
+        "archivos": 12,
+        "registros": 5967780,
+        "detalle": [
+            {
+                "archivo": "vuelos_2001_01_limpio.csv",
+                "registros": 529940
+            },
+            {
+                "archivo": "vuelos_2001_02_limpio.csv",
+                "registros": 477824
+            },
+            {
+                "archivo": "vuelos_2001_03_limpio.csv",
+                "registros": 531119
+            },
+            {
+                "archivo": "vuelos_2001_04_limpio.csv",
+                "registros": 514187
+            },
+            {
+                "archivo": "vuelos_2001_05_limpio.csv",
+                "registros": 529940
+            },
+            {
+                "archivo": "vuelos_2001_06_limpio.csv",
+                "registros": 520230
+            },
+            {
+                "archivo": "vuelos_2001_07_limpio.csv",
+                "registros": 538440
+            },
+            {
+                "archivo": "vuelos_2001_08_limpio.csv",
+                "registros": 544351
+            },
+            {
+                "archivo": "vuelos_2001_09_limpio.csv",
+                "registros": 490698
+            },
+            {
+                "archivo": "vuelos_2001_10_limpio.csv",
+                "registros": 443796
+            },
+            {
+                "archivo": "vuelos_2001_11_limpio.csv",
+                "registros": 417386
+            },
+            {
+                "archivo": "vuelos_2001_12_limpio.csv",
+                "registros": 429869
+            }
+        ]
+    }
+}
